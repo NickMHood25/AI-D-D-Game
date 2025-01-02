@@ -4,6 +4,8 @@ import json
 import random
 from dotenv import load_dotenv
 
+# This is a test comment
+
 # Load environment variables from the .env file
 load_dotenv()
 
